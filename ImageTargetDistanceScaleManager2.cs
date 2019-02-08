@@ -8,6 +8,10 @@
  * Author: Nico Reski
  * Web: http://reski.nicoversity.com
  * Twitter: @nicoversity
+ ****************************
+ *Revised version of Nico Reskis original code by:
+ *Torbjörn Holgersson
+ *Mail: th222mw@student.lnu.se
  */
 
 using System.Collections;
